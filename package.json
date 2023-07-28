@@ -2,9 +2,8 @@
   "name": "scandallo",
   "version": "1.0.0",
   "main": "indexbck.js",
-  "engines": {
-    "node": "20.5.0"
-  },
+  
+  
   "scripts": {
     "start": "node indexbck.js",
     "dev": "nodemon indexbck.js"
