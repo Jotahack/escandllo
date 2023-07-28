@@ -1,8 +1,10 @@
 {
   "name": "scandallo",
   "version": "1.0.0",
-  "description": "",
   "main": "indexbck.js",
+  "engines": {
+    "node": "20.5.0"
+  },
   "scripts": {
     "start": "node indexbck.js",
     "dev": "nodemon indexbck.js"
@@ -12,5 +14,7 @@
   "devDependencies": {
     "dotenv": "^16.3.1",
     "nodemon": "^3.0.1"
-  }
+  },
+  
+  "description": ""
 }
